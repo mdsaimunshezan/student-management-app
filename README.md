@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-*this  is student managemetn poject.
-*Student add the student and delete.
+* this  is student managemetn poject.
+* Student add the student and delete.
 * Also search the student
 * This poject is responsive
 
